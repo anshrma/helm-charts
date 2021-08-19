@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  helm-waiter:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-08-19T14:54:52.534192-07:00"
+    description: A Helm chart for Kubernetes
+    digest: 1c57c2abc55e925585734d6b6ecfd15136c9c665138e1d59506d52575e72675b
+    name: helm-waiter
+    type: application
+    urls:
+    - https://github.com/anshrma/helm-charts/releases/download/helm-waiter-0.1.0/helm-waiter-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-08-19T14:54:52.534206-07:00"
